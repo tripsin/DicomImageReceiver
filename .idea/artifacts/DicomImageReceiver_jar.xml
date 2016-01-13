@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DicomImageReceiver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DicomImageReceiver_jar</output-path>
+    <root id="archive" name="DicomImageReceiver.jar">
+      <element id="module-output" name="DicomImageReceiver" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Library/pixelmed.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
