@@ -1,11 +1,9 @@
 <component name="libraryTable">
   <library name="pixelmed">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../Library/pixelmed.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pixelmed.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="file://$PROJECT_DIR$/../Pixelmed" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>
